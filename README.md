@@ -53,8 +53,8 @@ Full Stack MERN Developer | React.js &amp; Node.js Specialist | REST API Develop
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (Add Your Link)
-- 🌐 Portfolio: (Add Your Portfolio Link)
+- 💼 LinkedIn: https://www.linkedin.com/in/chandanchaurasiya-dev?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 🌐 Portfolio: https://www.codewithck.netlify.app
 
 ---
 
