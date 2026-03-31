@@ -44,11 +44,10 @@ const chandan: Developer = {
 
   database : ["MongoDB 🍃", "Mongoose ODM"],
 
-  learning : ["Java ☕", "DSA 🧠", "System Design 🏗️",
-              "Microservices", "Redis"],
+  learning : ["Java ☕", "DSA 🧠", "System Design 🏗️"],
 
-  tools    : ["Git & GitHub", "Postman 📮",
-              "VS Code 💻", "Linux 🐧", "Vercel"],
+  tools    : ["Git & GitHub", "Postman 📮", "VS Code 💻",
+              "Linux 🐧", "Vercel"],
 
   openTo   : ["Internship 🎯", "Full-Time Full Stack Role 💼"],
 
@@ -81,23 +80,12 @@ const chandan: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/chandanchaurasiya55/Real-Estate-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanchaurasiya55&repo=Real-Estate-Website&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-&nbsp;
-<a href="https://github.com/chandanchaurasiya55/Seo-Auditor-Tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanchaurasiya55&repo=Seo-Auditor-Tool&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/chandanchaurasiya55/File-Enhancer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanchaurasiya55&repo=File-Enhancer&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-&nbsp;
-<a href="https://github.com/chandanchaurasiya55/Food-View-Mern-Stack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanchaurasiya55&repo=Food-View-Mern-Stack&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+| 🏠 Project | 🛠️ Tech Stack | 🔗 Link |
+|:---|:---|:---:|
+| **🏡 Real Estate Website** | React.js, Node.js, MongoDB, Express, Tailwind CSS | [![Repo](https://img.shields.io/badge/View-Repo-0ea5e9?style=flat-square&logo=github)](https://github.com/chandanchaurasiya55/Real-Estate-Website) |
+| **🔍 SEO Auditor Tool** | React.js, Node.js, REST API, Express.js | [![Repo](https://img.shields.io/badge/View-Repo-0ea5e9?style=flat-square&logo=github)](https://github.com/chandanchaurasiya55/Seo-Auditor-Tool) |
+| **📁 File Enhancer** | Node.js, Express.js, JavaScript, File Processing | [![Repo](https://img.shields.io/badge/View-Repo-0ea5e9?style=flat-square&logo=github)](https://github.com/chandanchaurasiya55/File-Enhancer) |
+| **🍔 Food View MERN** | MongoDB, Express.js, React.js, Node.js, JWT Auth | [![Repo](https://img.shields.io/badge/View-Repo-0ea5e9?style=flat-square&logo=github)](https://github.com/chandanchaurasiya55/Food-View-Mern-Stack) |
 
 </div>
 
@@ -107,13 +95,7 @@ const chandan: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chandanchaurasiya55&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanchaurasiya55&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchaurasiya55&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="45%" />
+<img src="https://streak-stats.demolab.com?user=chandanchaurasiya55&theme=tokyonight&hide_border=true&border_radius=12" width="60%" />
 
 <br/><br/>
 
