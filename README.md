@@ -1,52 +1,58 @@
-<!-- 🔥 FINAL PERFECT GITHUB PROFILE -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,30:0d1b3e,70:0369a1,100:0ea5e9&height=280&section=header&text=Chandan%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Expert&descSize=20&descAlignY=62&descColor=93c5fd" width="100%" />
+
+</div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:0ea5e9&height=250&section=header&text=Chandan%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" />
-
-<br/>
-
-<h2>🚀 Building Scalable & Modern Web Applications</h2>
-
-<p align="center">
-💻 Full Stack MERN Developer &nbsp;&nbsp;|&nbsp;&nbsp; ⚛️ React &nbsp;&nbsp;|&nbsp;&nbsp; 🟢 Node &nbsp;&nbsp;|&nbsp;&nbsp; 🍃 MongoDB  
-<br/>
-🎯 Open for Internship & Full-Time Opportunities
-</p>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Clean+UI+%2B+Powerful+Backend;Building+Scalable+Web+Apps;Learning+Java+%2B+DSA+%2B+System+Design" />
+<a href="https://www.codewithck.me">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-codewithck.me-0ea5e9?style=for-the-badge&labelColor=0a0f1e" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/chandanchaurasiya-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=chandanchaurasiya55&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ChandanKumar-dev&color=0ea5e9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ChandanKumar-dev?style=for-the-badge&color=0ea5e9" />
-<img src="https://img.shields.io/badge/Portfolio-codewithck.me-0f172a?style=for-the-badge&logo=vercel&logoColor=0ea5e9" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=⚛️+Full+Stack+MERN+Developer;🟢+Node.js+%7C+Express+%7C+REST+API+Expert;🎨+React+%7C+Next.js+%7C+Tailwind+CSS;☕+Learning+Java+%2B+System+Design;🚀+Building+Production-Ready+Web+Apps;💼+Open+to+Internship+%26+Full-Time+Roles" />
 
 </div>
+
+<br/>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```javascript
-const chandan = {
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" />
+
+```typescript
+const chandan: Developer = {
   name     : "Chandan Kumar",
-  role     : "Full Stack MERN Developer",
+  title    : "Full Stack MERN Developer",
   location : "India 🇮🇳",
 
-  stack: {
-    frontend : ["React.js ⚛️", "Next.js", "Tailwind CSS", "JavaScript ES6+"],
-    backend  : ["Node.js 🟢", "Express.js", "REST APIs", "JWT Auth 🔐"],
-    database : ["MongoDB 🍃", "Mongoose"],
-    learning : ["Java ☕", "System Design 🏗️", "DSA 🧠"],
-    tools    : ["Git", "GitHub", "Postman", "VS Code", "Linux 🐧"],
-  },
+  frontend : ["React.js ⚛️", "Next.js 🔺", "Tailwind CSS 🎨",
+              "JavaScript ES6+", "TypeScript"],
 
-  openTo : ["Internship 🎯", "Full-Time Full Stack Role 💼"],
+  backend  : ["Node.js 🟢", "Express.js", "REST APIs 🔌",
+              "JWT Auth 🔐", "Middleware Design"],
 
-  motto  : "Build fast. Break things. Learn faster. 🔁",
+  database : ["MongoDB 🍃", "Mongoose ODM"],
+
+  learning : ["Java ☕", "DSA 🧠", "System Design 🏗️",
+              "Microservices", "Redis"],
+
+  tools    : ["Git & GitHub", "Postman 📮",
+              "VS Code 💻", "Linux 🐧", "Vercel"],
+
+  openTo   : ["Internship 🎯", "Full-Time Full Stack Role 💼"],
+
+  motto    : "Build fast. Ship clean. Scale smart. 🚀",
 };
 ```
 
@@ -54,25 +60,18 @@ const chandan = {
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 🎨 Frontend
-
+### 🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&theme=dark&perline=7" />
 
-<br/>
-
 ### 🟢 Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,spring&theme=dark&perline=7" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java&theme=dark&perline=7" />
-
-<br/>
-
-### 🛠 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark&perline=7" />
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel,docker&theme=dark&perline=7" />
 
 </div>
 
@@ -82,11 +81,22 @@ const chandan = {
 
 <div align="center">
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChandanKumar-dev&repo=Reel-to-Meal&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/chandanchaurasiya55/Real-Estate-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanchaurasiya55&repo=Real-Estate-Website&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChandanKumar-dev&repo=Seo-Auditor-Tool&theme=tokyonight&hide_border=true" />
+&nbsp;
+<a href="https://github.com/chandanchaurasiya55/Seo-Auditor-Tool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanchaurasiya55&repo=Seo-Auditor-Tool&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/chandanchaurasiya55/File-Enhancer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanchaurasiya55&repo=File-Enhancer&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+&nbsp;
+<a href="https://github.com/chandanchaurasiya55/Food-View-Mern-Stack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanchaurasiya55&repo=Food-View-Mern-Stack&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 
 </div>
@@ -97,70 +107,97 @@ const chandan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChandanKumar-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanKumar-dev&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=chandanchaurasiya55&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanchaurasiya55&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandanKumar-dev&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchaurasiya55&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="45%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandanchaurasiya55&theme=react-dark&hide_border=true&area=true&radius=12" width="96%" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
-
-* 🚀 Built real-world full-stack projects
-* 🔐 Implemented secure authentication systems
-* 🌐 Designed modern responsive UIs
-* 🔌 Developed scalable APIs
-
----
-
-## 🎯 Goals
-
-```
-🚀 Build SaaS-level products
-📦 Contribute to Open Source
-🧠 Master System Design & DSA
-💼 Get Full Stack Developer role
-⭐ Grow strong developer brand
-```
-
----
-
-## 🔗 Connect With Me
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<a href="https://www.codewithck.me">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=0ea5e9"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=chandanchaurasiya55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+
+</div>
+
+---
+
+## 🗂️ What I Build
+
+<div align="center">
+
+| 💡 Area | 🔧 What I Deliver |
+|:---:|:---|
+| 🌐 **Full Stack Apps** | End-to-end MERN apps with clean, scalable architecture |
+| ⚛️ **Modern Frontend** | Pixel-perfect, responsive UIs with React & Tailwind CSS |
+| 🔐 **Auth Systems** | Secure JWT / OAuth-based authentication & authorization |
+| 🔌 **REST APIs** | Well-documented, efficient APIs with Express & Node.js |
+| ☕ **Java Projects** | OOP-based backend services and algorithmic solutions |
+| 📐 **System Design** | Learning scalable architectures & microservice patterns |
+
+</div>
+
+---
+
+## 🎯 2025 Roadmap
+
+```
+✅  Built production-ready MERN stack projects
+✅  Mastered REST API architecture & JWT auth
+✅  Built responsive UIs with React + Tailwind CSS
+⬜  Contribute to major Open Source projects
+⬜  Land Full Stack Developer role / internship
+⬜  Master System Design & Microservices
+⬜  Build a SaaS-level product
+⬜  Grow a strong developer brand on GitHub
+```
+
+---
+
+## 💬 Dev Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="82%" />
+
+<br/><br/>
+
+> *"First, solve the problem. Then, write the code."*  
+> — John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something Amazing Together
+
 <a href="https://www.linkedin.com/in/chandanchaurasiya-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.codewithck.me">
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
----
-
-## 💡 Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+⭐ **Enjoyed my work? Drop a star on my repos — it fuels me to build more!** ⭐
 
 <br/>
 
-> ⚡ "Code. Build. Scale. Repeat."
-> — Chandan Kumar
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=footer&animation=fadeIn&reversal=true&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:0369a1,100:0a0f1e&height=130&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 </div>
