@@ -67,10 +67,10 @@ const chandan: Developer = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&theme=dark&perline=7" />
 
 ### 🟢 Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,spring&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java&theme=dark&perline=7" />
 
 ### 🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel,docker&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel&theme=dark&perline=7" />
 
 </div>
 
@@ -94,6 +94,11 @@ const chandan: Developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chandanchaurasiya55&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchaurasiya55&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800" width="38%" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=chandanchaurasiya55&theme=tokyonight&hide_border=true&border_radius=12" width="60%" />
 
