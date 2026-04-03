@@ -91,25 +91,6 @@ const chandan: Developer = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chandanchaurasiya55&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchaurasiya55&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800" width="38%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=chandanchaurasiya55&theme=tokyonight&hide_border=true&border_radius=12" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandanchaurasiya55&theme=react-dark&hide_border=true&area=true&radius=12" width="96%" />
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
