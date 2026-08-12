@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,30:0d1b3e,70:0369a1,100:0ea5e9&height=280&section=header&text=Chandan%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Expert&descSize=20&descAlignY=62&descColor=93c5fd" width="100%" />
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d1b3e,60:0369a1,100:0ea5e9&height=260&section=header&text=Hi%20👋%20I'm%20Chandan%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20Expert&descSize=18&descAlignY=58&descColor=93c5fd" width="100%" />
 
 <a href="https://www.codewithck.me">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-codewithck.me-0ea5e9?style=for-the-badge&labelColor=0a0f1e" />
@@ -24,11 +20,23 @@
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chandanchaurasiya55/chandanchaurasiya55/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+> ⚠️ Ye animation tabhi dikhegi jab tumne repo mein neeche wali **snake.yml** workflow add kar li ho (steps README ke end mein diye hain).
+
+<br/>
+
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" />
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" />
 
 ```typescript
 const chandan: Developer = {
@@ -91,6 +99,19 @@ const chandan: Developer = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chandanchaurasiya55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanchaurasiya55&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchaurasiya55&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -141,7 +162,7 @@ const chandan: Developer = {
 
 <br/><br/>
 
-> *"First, solve the problem. Then, write the code."*  
+> *"First, solve the problem. Then, write the code."*
 > — John Johnson
 
 </div>
@@ -166,6 +187,6 @@ const chandan: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:0369a1,100:0a0f1e&height=130&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:0369a1,100:0a0f1e&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 </div>
